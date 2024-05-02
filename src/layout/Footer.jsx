@@ -30,7 +30,7 @@ export default function Footer() {
                 </Row>
                 <div className="text-center mt-3">
                     <p>&copy; 2024 ByteStyle. Todos os direitos reservados.</p>
-                    <a href="##" style={{ color: '#007bff' }}>Política de Privacidade</a>
+                    <a href="##" style={{ color: '#007bff' }}></a>
                 </div>
             </Container>
         </footer>
